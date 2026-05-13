@@ -1,0 +1,3895 @@
+{
+  "_note": "Dummy consensus data v2. consensus = actual / surprise_factor (seed=42, reproducible). Financial Services: op_income not applicable — set to null. Generated 2026-05-06.",
+  "tickers": {
+    "006400.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 3176817731170,
+          "consensus_revenue": 3491008495791,
+          "revenue_surprise_pct": -9.0,
+          "actual_op_income": -434068787270,
+          "consensus_op_income": -471222748283,
+          "op_surprise_pct": 7.88
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 3179406065750,
+          "consensus_revenue": 3418716199731,
+          "revenue_surprise_pct": -7.0,
+          "actual_op_income": 280650554000,
+          "consensus_op_income": 314630362428,
+          "op_surprise_pct": -10.8
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3051820635180,
+          "consensus_revenue": 3429011949640,
+          "revenue_surprise_pct": -11.0,
+          "actual_op_income": -591288808300,
+          "consensus_op_income": -678081671880,
+          "op_surprise_pct": 12.8
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 3858686247390,
+          "consensus_revenue": 4194224181945,
+          "revenue_surprise_pct": -8.0,
+          "actual_op_income": -299166397540,
+          "consensus_op_income": -333200548087,
+          "op_surprise_pct": 10.21
+        }
+      ]
+    },
+    "005490.KS": {
+      "sector": "Basic Materials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 17436776000000,
+          "consensus_revenue": 16524615467826,
+          "revenue_surprise_pct": 5.52,
+          "actual_op_income": 612180000000,
+          "consensus_op_income": 572486068512,
+          "op_surprise_pct": 6.93
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 17555587000000,
+          "consensus_revenue": 16230068740659,
+          "revenue_surprise_pct": 8.17,
+          "actual_op_income": 612454000000,
+          "consensus_op_income": 584054004266,
+          "op_surprise_pct": 4.86
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 17261041000000,
+          "consensus_revenue": 17231287574692,
+          "revenue_surprise_pct": 0.17,
+          "actual_op_income": 643618000000,
+          "consensus_op_income": 667577013987,
+          "op_surprise_pct": -3.59
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 16733533000000,
+          "consensus_revenue": 17301570270508,
+          "revenue_surprise_pct": -3.28,
+          "actual_op_income": 55299000000,
+          "consensus_op_income": 57150866454,
+          "op_surprise_pct": -3.24
+        }
+      ]
+    },
+    "373220.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 6264995000000,
+          "consensus_revenue": 6664888297872,
+          "revenue_surprise_pct": -6.0,
+          "actual_op_income": 374673000000,
+          "consensus_op_income": 415323687397,
+          "op_surprise_pct": -9.79
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 5565408000000,
+          "consensus_revenue": 6115832967032,
+          "revenue_surprise_pct": -9.0,
+          "actual_op_income": 492159000000,
+          "consensus_op_income": 555542504239,
+          "op_surprise_pct": -11.41
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 5699873000000,
+          "consensus_revenue": 6128895698924,
+          "revenue_surprise_pct": -7.0,
+          "actual_op_income": 601309000000,
+          "consensus_op_income": 638338536545,
+          "op_surprise_pct": -5.8
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 6141483000000,
+          "consensus_revenue": 6533492553191,
+          "revenue_surprise_pct": -6.0,
+          "actual_op_income": -122021000000,
+          "consensus_op_income": -129314969684,
+          "op_surprise_pct": 5.64
+        }
+      ]
+    },
+    "051910.KS": {
+      "sector": "Basic Materials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 12171015000000,
+          "consensus_revenue": 12811594736842,
+          "revenue_surprise_pct": -5.0,
+          "actual_op_income": 446971000000,
+          "consensus_op_income": 481839171284,
+          "op_surprise_pct": -7.24
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 11417711000000,
+          "consensus_revenue": 12146501063829,
+          "revenue_surprise_pct": -6.0,
+          "actual_op_income": 476783000000,
+          "consensus_op_income": 503391651064,
+          "op_surprise_pct": -5.29
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 11196170000000,
+          "consensus_revenue": 11785442105263,
+          "revenue_surprise_pct": -5.0,
+          "actual_op_income": 679715000000,
+          "consensus_op_income": 697319216536,
+          "op_surprise_pct": -2.52
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 11197134000000,
+          "consensus_revenue": 12039929032258,
+          "revenue_surprise_pct": -7.0,
+          "actual_op_income": -413264000000,
+          "consensus_op_income": -464070482468,
+          "op_surprise_pct": 10.95
+        }
+      ]
+    },
+    "086520.KS": {
+      "sector": "",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 806827475330,
+          "consensus_revenue": 756172058978,
+          "revenue_surprise_pct": 6.7,
+          "actual_op_income": 1373792810,
+          "consensus_op_income": 1268693686,
+          "op_surprise_pct": 8.28
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 931704760250,
+          "consensus_revenue": 943171282296,
+          "revenue_surprise_pct": -1.22,
+          "actual_op_income": 16227581250,
+          "consensus_op_income": 16898784972,
+          "op_surprise_pct": -3.97
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 959384246720,
+          "consensus_revenue": 877973116379,
+          "revenue_surprise_pct": 9.27,
+          "actual_op_income": 149387015770,
+          "consensus_op_income": 138365666589,
+          "op_surprise_pct": 7.97
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 715105107800,
+          "consensus_revenue": 756111456660,
+          "revenue_surprise_pct": -5.42,
+          "actual_op_income": 46775124980,
+          "consensus_op_income": 51204066626,
+          "op_surprise_pct": -8.65
+        }
+      ]
+    },
+    "247540.KS": {
+      "sector": "",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 629788701180,
+          "consensus_revenue": 586355015007,
+          "revenue_surprise_pct": 7.41,
+          "actual_op_income": 2269956010,
+          "consensus_op_income": 2097204794,
+          "op_surprise_pct": 8.24
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 779716508200,
+          "consensus_revenue": 730610834215,
+          "revenue_surprise_pct": 6.72,
+          "actual_op_income": 49000956420,
+          "consensus_op_income": 45137612403,
+          "op_surprise_pct": 8.56
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 625060142880,
+          "consensus_revenue": 612108672860,
+          "revenue_surprise_pct": 2.12,
+          "actual_op_income": 50480514940,
+          "consensus_op_income": 47667735458,
+          "op_surprise_pct": 5.9
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 497011031850,
+          "consensus_revenue": 499834675845,
+          "revenue_surprise_pct": -0.56,
+          "actual_op_income": 41558473390,
+          "consensus_op_income": 41620317243,
+          "op_surprise_pct": -0.15
+        }
+      ]
+    },
+    "096770.KS": {
+      "sector": "Energy",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 21146551799000,
+          "consensus_revenue": 19744701804271,
+          "revenue_surprise_pct": 7.1,
+          "actual_op_income": -44638745000,
+          "consensus_op_income": -41313795336,
+          "op_surprise_pct": -8.05
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 19306626093000,
+          "consensus_revenue": 17934790838125,
+          "revenue_surprise_pct": 7.65,
+          "actual_op_income": -417568625000,
+          "consensus_op_income": -385681146255,
+          "op_surprise_pct": -8.27
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 20533220238000,
+          "consensus_revenue": 19559597979669,
+          "revenue_surprise_pct": 4.98,
+          "actual_op_income": 573474628000,
+          "consensus_op_income": 565867577998,
+          "op_surprise_pct": 1.34
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 19309656113000,
+          "consensus_revenue": 19932698307039,
+          "revenue_surprise_pct": -3.13,
+          "actual_op_income": 337416601000,
+          "consensus_op_income": 354468766230,
+          "op_surprise_pct": -4.81
+        }
+      ]
+    },
+    "003670.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 845393850220,
+          "consensus_revenue": 895957540052,
+          "revenue_surprise_pct": -5.64,
+          "actual_op_income": 17150145830,
+          "consensus_op_income": 18597235661,
+          "op_surprise_pct": -7.78
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 660936939290,
+          "consensus_revenue": 697801629828,
+          "revenue_surprise_pct": -5.28,
+          "actual_op_income": 773325560,
+          "consensus_op_income": 832062399,
+          "op_surprise_pct": -7.06
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 874798315310,
+          "consensus_revenue": 842719071525,
+          "revenue_surprise_pct": 3.81,
+          "actual_op_income": 66669950210,
+          "consensus_op_income": 64901202297,
+          "op_surprise_pct": 2.73
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 557569079570,
+          "consensus_revenue": 561538729139,
+          "revenue_surprise_pct": -0.71,
+          "actual_op_income": -51766138250,
+          "consensus_op_income": -53384140721,
+          "op_surprise_pct": 3.03
+        }
+      ]
+    },
+    "066970.KS": {
+      "sector": "",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 364781970020,
+          "consensus_revenue": 373987205164,
+          "revenue_surprise_pct": -2.46,
+          "actual_op_income": -140252572280,
+          "consensus_op_income": -138820143199,
+          "op_surprise_pct": -1.03
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 520075586210,
+          "consensus_revenue": 499992865046,
+          "revenue_surprise_pct": 4.02,
+          "actual_op_income": -121188291370,
+          "consensus_op_income": -115538846624,
+          "op_surprise_pct": -4.89
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 652296034670,
+          "consensus_revenue": 680117201221,
+          "revenue_surprise_pct": -4.09,
+          "actual_op_income": 22122023900,
+          "consensus_op_income": 22632992818,
+          "op_surprise_pct": -2.26
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 617785374200,
+          "consensus_revenue": 645019097067,
+          "revenue_surprise_pct": -4.22,
+          "actual_op_income": 82468897410,
+          "consensus_op_income": 86980134316,
+          "op_surprise_pct": -5.19
+        }
+      ]
+    },
+    "011790.KS": {
+      "sector": "Basic Materials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 438464468660,
+          "consensus_revenue": 399250496298,
+          "revenue_surprise_pct": 9.82,
+          "actual_op_income": -74476803090,
+          "consensus_op_income": -67131360126,
+          "op_surprise_pct": -10.94
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 467295042290,
+          "consensus_revenue": 456039327492,
+          "revenue_surprise_pct": 2.47,
+          "actual_op_income": -70169651190,
+          "consensus_op_income": -67506480274,
+          "op_surprise_pct": -3.95
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 506018201710,
+          "consensus_revenue": 471466836433,
+          "revenue_surprise_pct": 7.33,
+          "actual_op_income": -52771389260,
+          "consensus_op_income": -48176998500,
+          "op_surprise_pct": -9.54
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 428258729160,
+          "consensus_revenue": 441987674169,
+          "revenue_surprise_pct": -3.11,
+          "actual_op_income": -107607607240,
+          "consensus_op_income": -115520012849,
+          "op_surprise_pct": 6.85
+        }
+      ]
+    },
+    "010120.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1032084355630,
+          "consensus_revenue": 913348987283,
+          "revenue_surprise_pct": 13.0,
+          "actual_op_income": 87313700970,
+          "consensus_op_income": 78291663718,
+          "op_surprise_pct": 11.52
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1193042129330,
+          "consensus_revenue": 1084583753936,
+          "revenue_surprise_pct": 10.0,
+          "actual_op_income": 108708651030,
+          "consensus_op_income": 100524055782,
+          "op_surprise_pct": 8.14
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1216294667140,
+          "consensus_revenue": 1085977381374,
+          "revenue_surprise_pct": 12.0,
+          "actual_op_income": 100791400430,
+          "consensus_op_income": 91889291945,
+          "op_surprise_pct": 9.69
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1524377400890,
+          "consensus_revenue": 1373312973774,
+          "revenue_surprise_pct": 11.0,
+          "actual_op_income": 129708390990,
+          "consensus_op_income": 113239636212,
+          "op_surprise_pct": 14.54
+        }
+      ]
+    },
+    "298040.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1076134826520,
+          "consensus_revenue": 935769414365,
+          "revenue_surprise_pct": 15.0,
+          "actual_op_income": 102387086110,
+          "consensus_op_income": 86760672554,
+          "op_surprise_pct": 18.01
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1525284991620,
+          "consensus_revenue": 1361861599660,
+          "revenue_surprise_pct": 12.0,
+          "actual_op_income": 129031404280,
+          "consensus_op_income": 116752092768,
+          "op_surprise_pct": 10.52
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1624136435060,
+          "consensus_revenue": 1424681083385,
+          "revenue_surprise_pct": 14.0,
+          "actual_op_income": 219809120820,
+          "consensus_op_income": 190734490916,
+          "op_surprise_pct": 15.24
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1742955363410,
+          "consensus_revenue": 1502547727077,
+          "revenue_surprise_pct": 16.0,
+          "actual_op_income": 270980805550,
+          "consensus_op_income": 235297768979,
+          "op_surprise_pct": 15.17
+        }
+      ]
+    },
+    "267260.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1014667829230,
+          "consensus_revenue": 905953418955,
+          "revenue_surprise_pct": 12.0,
+          "actual_op_income": 218178415850,
+          "consensus_op_income": 189199846970,
+          "op_surprise_pct": 15.32
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 906219054680,
+          "consensus_revenue": 823835504254,
+          "revenue_surprise_pct": 10.0,
+          "actual_op_income": 209142368770,
+          "consensus_op_income": 190700113892,
+          "op_surprise_pct": 9.67
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 995431807620,
+          "consensus_revenue": 880913104088,
+          "revenue_surprise_pct": 13.0,
+          "actual_op_income": 247075954720,
+          "consensus_op_income": 222352489508,
+          "op_surprise_pct": 11.12
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1163178967000,
+          "consensus_revenue": 1011459971304,
+          "revenue_surprise_pct": 15.0,
+          "actual_op_income": 320922698420,
+          "consensus_op_income": 284070212733,
+          "op_surprise_pct": 12.97
+        }
+      ]
+    },
+    "006260.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 6913573000000,
+          "consensus_revenue": 6742103884655,
+          "revenue_surprise_pct": 2.54,
+          "actual_op_income": 310483000000,
+          "consensus_op_income": 308492632837,
+          "op_surprise_pct": 0.65
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 7854425000000,
+          "consensus_revenue": 7630251133863,
+          "revenue_surprise_pct": 2.94,
+          "actual_op_income": 243003000000,
+          "consensus_op_income": 228987704711,
+          "op_surprise_pct": 6.12
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 8072773000000,
+          "consensus_revenue": 8089777016588,
+          "revenue_surprise_pct": -0.21,
+          "actual_op_income": 251700000000,
+          "consensus_op_income": 258036407404,
+          "op_surprise_pct": -2.46
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 9029260000000,
+          "consensus_revenue": 8211543098696,
+          "revenue_surprise_pct": 9.96,
+          "actual_op_income": 264764000000,
+          "consensus_op_income": 240619407320,
+          "op_surprise_pct": 10.03
+        }
+      ]
+    },
+    "001440.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 855455851530,
+          "consensus_revenue": 904809021466,
+          "revenue_surprise_pct": -5.45,
+          "actual_op_income": 26017799500,
+          "consensus_op_income": 28615392986,
+          "op_surprise_pct": -9.08
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 916356132630,
+          "consensus_revenue": 965967904004,
+          "revenue_surprise_pct": -5.14,
+          "actual_op_income": 28563174390,
+          "consensus_op_income": 29789425232,
+          "op_surprise_pct": -4.12
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 854974427730,
+          "consensus_revenue": 803054171334,
+          "revenue_surprise_pct": 6.47,
+          "actual_op_income": 29653775620,
+          "consensus_op_income": 28016854758,
+          "op_surprise_pct": 5.84
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1009231803810,
+          "consensus_revenue": 1072738217320,
+          "revenue_surprise_pct": -5.92,
+          "actual_op_income": 43413462810,
+          "consensus_op_income": 46614516479,
+          "op_surprise_pct": -6.87
+        }
+      ]
+    },
+    "000500.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 639297449000,
+          "consensus_revenue": 581528080428,
+          "revenue_surprise_pct": 9.93,
+          "actual_op_income": 21884477000,
+          "consensus_op_income": 19864824607,
+          "op_surprise_pct": 10.17
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 643289510000,
+          "consensus_revenue": 587434303662,
+          "revenue_surprise_pct": 9.51,
+          "actual_op_income": 23232978000,
+          "consensus_op_income": 20670907849,
+          "op_surprise_pct": 12.39
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 649418148000,
+          "consensus_revenue": 696836645742,
+          "revenue_surprise_pct": -6.8,
+          "actual_op_income": 26132296000,
+          "consensus_op_income": 27518991195,
+          "op_surprise_pct": -5.04
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 613692967000,
+          "consensus_revenue": 586765835272,
+          "revenue_surprise_pct": 4.59,
+          "actual_op_income": 7950473000,
+          "consensus_op_income": 7580192792,
+          "op_surprise_pct": 4.88
+        }
+      ]
+    },
+    "103590.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 457428128000,
+          "consensus_revenue": 468983755341,
+          "revenue_surprise_pct": -2.46,
+          "actual_op_income": 34160959000,
+          "consensus_op_income": 34623626692,
+          "op_surprise_pct": -1.34
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 522820363000,
+          "consensus_revenue": 550938112395,
+          "revenue_surprise_pct": -5.1,
+          "actual_op_income": 38020968000,
+          "consensus_op_income": 40287328030,
+          "op_surprise_pct": -5.63
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 450153532000,
+          "consensus_revenue": 446965314965,
+          "revenue_surprise_pct": 0.71,
+          "actual_op_income": 35380688000,
+          "consensus_op_income": 33907791054,
+          "op_surprise_pct": 4.34
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 614150029000,
+          "consensus_revenue": 569239851030,
+          "revenue_surprise_pct": 7.89,
+          "actual_op_income": 44241720000,
+          "consensus_op_income": 41738805610,
+          "op_surprise_pct": 6.0
+        }
+      ]
+    },
+    "062040.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 98829448700,
+          "consensus_revenue": 97359357526,
+          "revenue_surprise_pct": 1.51,
+          "actual_op_income": 37521340420,
+          "consensus_op_income": 37923642395,
+          "op_surprise_pct": -1.06
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 128255019950,
+          "consensus_revenue": 118191407748,
+          "revenue_surprise_pct": 8.51,
+          "actual_op_income": 46190173510,
+          "consensus_op_income": 41434034512,
+          "op_surprise_pct": 11.48
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 132734594220,
+          "consensus_revenue": 135341872214,
+          "revenue_surprise_pct": -1.93,
+          "actual_op_income": 42561372850,
+          "consensus_op_income": 42911030198,
+          "op_surprise_pct": -0.81
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 142127158010,
+          "consensus_revenue": 137516912332,
+          "revenue_surprise_pct": 3.35,
+          "actual_op_income": 52361293430,
+          "consensus_op_income": 52061829754,
+          "op_surprise_pct": 0.58
+        }
+      ]
+    },
+    "033100.KS": {
+      "sector": "",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 50202511820,
+          "consensus_revenue": 47377539067,
+          "revenue_surprise_pct": 5.96,
+          "actual_op_income": 16068418010,
+          "consensus_op_income": 15119273012,
+          "op_surprise_pct": 6.28
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 60357879480,
+          "consensus_revenue": 56814554489,
+          "revenue_surprise_pct": 6.24,
+          "actual_op_income": 20407513490,
+          "consensus_op_income": 19165677352,
+          "op_surprise_pct": 6.48
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 69750099560,
+          "consensus_revenue": 74992267350,
+          "revenue_surprise_pct": -6.99,
+          "actual_op_income": 22530216290,
+          "consensus_op_income": 24595508333,
+          "op_surprise_pct": -8.4
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 43706522070,
+          "consensus_revenue": 46829534749,
+          "revenue_surprise_pct": -6.67,
+          "actual_op_income": 8021055700,
+          "consensus_op_income": 8289306481,
+          "op_surprise_pct": -3.24
+        }
+      ]
+    },
+    "060370.KS": {
+      "sector": "",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 44480427390,
+          "consensus_revenue": 41209134255,
+          "revenue_surprise_pct": 7.94,
+          "actual_op_income": 3019345020,
+          "consensus_op_income": 2730175822,
+          "op_surprise_pct": 10.59
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 66986959530,
+          "consensus_revenue": 68195562109,
+          "revenue_surprise_pct": -1.77,
+          "actual_op_income": 3416375640,
+          "consensus_op_income": 3607914729,
+          "op_surprise_pct": -5.31
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 76972868240,
+          "consensus_revenue": 71319933895,
+          "revenue_surprise_pct": 7.93,
+          "actual_op_income": 2052839030,
+          "consensus_op_income": 1841082197,
+          "op_surprise_pct": 11.5
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 55764819390,
+          "consensus_revenue": 59037811493,
+          "revenue_surprise_pct": -5.54,
+          "actual_op_income": -1479258350,
+          "consensus_op_income": -1567940560,
+          "op_surprise_pct": 5.66
+        }
+      ]
+    },
+    "005930.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 79140503000000,
+          "consensus_revenue": 84034136114382,
+          "revenue_surprise_pct": -5.82,
+          "actual_op_income": 6685272000000,
+          "consensus_op_income": 6944912402146,
+          "op_surprise_pct": -3.74
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 74566317000000,
+          "consensus_revenue": 70332852294850,
+          "revenue_surprise_pct": 6.02,
+          "actual_op_income": 4676057000000,
+          "consensus_op_income": 4537820599017,
+          "op_surprise_pct": 3.05
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 86061747000000,
+          "consensus_revenue": 85142379224992,
+          "revenue_surprise_pct": 1.08,
+          "actual_op_income": 12166062000000,
+          "consensus_op_income": 11988839477030,
+          "op_surprise_pct": 1.48
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 93837371000000,
+          "consensus_revenue": 96237571948733,
+          "revenue_surprise_pct": -2.49,
+          "actual_op_income": 20073660000000,
+          "consensus_op_income": 19976687759780,
+          "op_surprise_pct": 0.49
+        }
+      ]
+    },
+    "000660.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 17639141000000,
+          "consensus_revenue": 17605102417650,
+          "revenue_surprise_pct": 0.19,
+          "actual_op_income": 7440504000000,
+          "consensus_op_income": 7601058837859,
+          "op_surprise_pct": -2.11
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 22231952000000,
+          "consensus_revenue": 21760183920919,
+          "revenue_surprise_pct": 2.17,
+          "actual_op_income": 9212851000000,
+          "consensus_op_income": 8857873315797,
+          "op_surprise_pct": 4.01
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 24448929000000,
+          "consensus_revenue": 25356812405876,
+          "revenue_surprise_pct": -3.58,
+          "actual_op_income": 11383390000000,
+          "consensus_op_income": 11993461602253,
+          "op_surprise_pct": -5.09
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 32826653000000,
+          "consensus_revenue": 29864799812443,
+          "revenue_surprise_pct": 9.92,
+          "actual_op_income": 19169574000000,
+          "consensus_op_income": 17251770025986,
+          "op_surprise_pct": 11.12
+        }
+      ]
+    },
+    "005380.KS": {
+      "sector": "Consumer Cyclical",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 44407761000000,
+          "consensus_revenue": 44209832947221,
+          "revenue_surprise_pct": 0.45,
+          "actual_op_income": 3633609000000,
+          "consensus_op_income": 3612357207963,
+          "op_surprise_pct": 0.59
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 48286677000000,
+          "consensus_revenue": 50797564373185,
+          "revenue_surprise_pct": -4.94,
+          "actual_op_income": 3601597000000,
+          "consensus_op_income": 3878747051430,
+          "op_surprise_pct": -7.15
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 46721448000000,
+          "consensus_revenue": 47314078332281,
+          "revenue_surprise_pct": -1.25,
+          "actual_op_income": 2537266000000,
+          "consensus_op_income": 2551197469332,
+          "op_surprise_pct": -0.55
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 46838586000000,
+          "consensus_revenue": 48331073495588,
+          "revenue_surprise_pct": -3.09,
+          "actual_op_income": 1695379000000,
+          "consensus_op_income": 1790760461983,
+          "op_surprise_pct": -5.33
+        }
+      ]
+    },
+    "402340.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 2087568000000,
+          "consensus_revenue": 2215940009307,
+          "revenue_surprise_pct": -5.79,
+          "actual_op_income": 1652334000000,
+          "consensus_op_income": 1734629942182,
+          "op_surprise_pct": -4.74
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 406594000000,
+          "consensus_revenue": 419636251365,
+          "revenue_surprise_pct": -3.11,
+          "actual_op_income": -63488000000,
+          "consensus_op_income": -63402172207,
+          "op_surprise_pct": -0.14
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3074654000000,
+          "consensus_revenue": 2857118648768,
+          "revenue_surprise_pct": 7.61,
+          "actual_op_income": 2645508000000,
+          "consensus_op_income": 2539346539633,
+          "op_surprise_pct": 4.18
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 3374746000000,
+          "consensus_revenue": 3477467654825,
+          "revenue_surprise_pct": -2.95,
+          "actual_op_income": 3098486000000,
+          "consensus_op_income": 3148935056719,
+          "op_surprise_pct": -1.6
+        }
+      ]
+    },
+    "034020.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 3748574000000,
+          "consensus_revenue": 3878823909026,
+          "revenue_surprise_pct": -3.36,
+          "actual_op_income": 142475000000,
+          "consensus_op_income": 152053584352,
+          "op_surprise_pct": -6.3
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 4569021000000,
+          "consensus_revenue": 4195467402974,
+          "revenue_surprise_pct": 8.9,
+          "actual_op_income": 271106000000,
+          "consensus_op_income": 247648517384,
+          "op_surprise_pct": 9.47
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3880350000000,
+          "consensus_revenue": 3840584304095,
+          "revenue_surprise_pct": 1.04,
+          "actual_op_income": 137059000000,
+          "consensus_op_income": 132664664934,
+          "op_surprise_pct": 3.31
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 4859931000000,
+          "consensus_revenue": 4553590521711,
+          "revenue_surprise_pct": 6.73,
+          "actual_op_income": 212072000000,
+          "consensus_op_income": 203424957796,
+          "op_surprise_pct": 4.25
+        }
+      ]
+    },
+    "105560.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 5320913000000,
+          "consensus_revenue": 5621801731953,
+          "revenue_surprise_pct": -5.35,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 5412457000000,
+          "consensus_revenue": 5401608593423,
+          "revenue_surprise_pct": 0.2,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 5036164000000,
+          "consensus_revenue": 4778403105822,
+          "revenue_surprise_pct": 5.39,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 5663373000000,
+          "consensus_revenue": 5161151250597,
+          "revenue_surprise_pct": 9.73,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "009150.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 2738649099830,
+          "consensus_revenue": 2742912633972,
+          "revenue_surprise_pct": -0.16,
+          "actual_op_income": 200549841190,
+          "consensus_op_income": 203482052899,
+          "op_surprise_pct": -1.44
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 2784629132130,
+          "consensus_revenue": 2586780923302,
+          "revenue_surprise_pct": 7.65,
+          "actual_op_income": 213008153810,
+          "consensus_op_income": 201640310700,
+          "op_surprise_pct": 5.64
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 2889035756680,
+          "consensus_revenue": 3002108633989,
+          "revenue_surprise_pct": -3.77,
+          "actual_op_income": 260277272810,
+          "consensus_op_income": 271624495219,
+          "op_surprise_pct": -4.18
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 2902145249470,
+          "consensus_revenue": 2897162481219,
+          "revenue_surprise_pct": 0.17,
+          "actual_op_income": 239495911420,
+          "consensus_op_income": 243389290556,
+          "op_surprise_pct": -1.6
+        }
+      ]
+    },
+    "012450.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 5484220608000,
+          "consensus_revenue": 5639492204691,
+          "revenue_surprise_pct": -2.75,
+          "actual_op_income": 560777793000,
+          "consensus_op_income": 557251314938,
+          "op_surprise_pct": 0.63
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 6310959074000,
+          "consensus_revenue": 6277486095290,
+          "revenue_surprise_pct": 0.53,
+          "actual_op_income": 864517384000,
+          "consensus_op_income": 835896169556,
+          "op_surprise_pct": 3.42
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 6486486380000,
+          "consensus_revenue": 6337211443534,
+          "revenue_surprise_pct": 2.36,
+          "actual_op_income": 856429531000,
+          "consensus_op_income": 867180514615,
+          "op_surprise_pct": -1.24
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 8421235187000,
+          "consensus_revenue": 7656517392566,
+          "revenue_surprise_pct": 9.99,
+          "actual_op_income": 812627090000,
+          "consensus_op_income": 721206758042,
+          "op_surprise_pct": 12.68
+        }
+      ]
+    },
+    "055550.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 4335263000000,
+          "consensus_revenue": 3960123062009,
+          "revenue_surprise_pct": 9.47,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 4724775000000,
+          "consensus_revenue": 4398092291922,
+          "revenue_surprise_pct": 7.43,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 4458492000000,
+          "consensus_revenue": 4403192345523,
+          "revenue_surprise_pct": 1.26,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 4802923000000,
+          "consensus_revenue": 4811695443831,
+          "revenue_surprise_pct": -0.18,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "000270.KS": {
+      "sector": "Consumer Cyclical",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 28017510000000,
+          "consensus_revenue": 28174571112517,
+          "revenue_surprise_pct": -0.56,
+          "actual_op_income": 3008592000000,
+          "consensus_op_income": 2911775077634,
+          "op_surprise_pct": 3.33
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 29349635000000,
+          "consensus_revenue": 30099580499271,
+          "revenue_surprise_pct": -2.49,
+          "actual_op_income": 2765865000000,
+          "consensus_op_income": 2771935071997,
+          "op_surprise_pct": -0.22
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 28686037000000,
+          "consensus_revenue": 28476692801305,
+          "revenue_surprise_pct": 0.74,
+          "actual_op_income": 1462240000000,
+          "consensus_op_income": 1460499053979,
+          "op_surprise_pct": 0.12
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 28087737000000,
+          "consensus_revenue": 25703858385027,
+          "revenue_surprise_pct": 9.27,
+          "actual_op_income": 1841451000000,
+          "consensus_op_income": 1626180747328,
+          "op_surprise_pct": 13.24
+        }
+      ]
+    },
+    "068270.KS": {
+      "sector": "Healthcare",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 841911660220,
+          "consensus_revenue": 821793646371,
+          "revenue_surprise_pct": 2.45,
+          "actual_op_income": 149420804340,
+          "consensus_op_income": 143404514998,
+          "op_surprise_pct": 4.2
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 961457364490,
+          "consensus_revenue": 1005376786642,
+          "revenue_surprise_pct": -4.37,
+          "actual_op_income": 229875251600,
+          "consensus_op_income": 244534590094,
+          "op_surprise_pct": -5.99
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1028969076480,
+          "consensus_revenue": 939971973521,
+          "revenue_surprise_pct": 9.47,
+          "actual_op_income": 301411957360,
+          "consensus_op_income": 273758262302,
+          "op_surprise_pct": 10.1
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1330157007700,
+          "consensus_revenue": 1301302977046,
+          "revenue_surprise_pct": 2.22,
+          "actual_op_income": 475764894250,
+          "consensus_op_income": 456583269911,
+          "op_surprise_pct": 4.2
+        }
+      ]
+    },
+    "086790.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 3657669000000,
+          "consensus_revenue": 3892304526255,
+          "revenue_surprise_pct": -6.03,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 3741638000000,
+          "consensus_revenue": 3684583821956,
+          "revenue_surprise_pct": 1.55,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3644287000000,
+          "consensus_revenue": 3808973437196,
+          "revenue_surprise_pct": -4.32,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 3347208000000,
+          "consensus_revenue": 3547203034895,
+          "revenue_surprise_pct": -5.64,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "028260.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 9736780907940,
+          "consensus_revenue": 9442587939353,
+          "revenue_surprise_pct": 3.12,
+          "actual_op_income": 724770037640,
+          "consensus_op_income": 693445062960,
+          "op_surprise_pct": 4.52
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 10022075966800,
+          "consensus_revenue": 10332200454164,
+          "revenue_surprise_pct": -3.0,
+          "actual_op_income": 773419344790,
+          "consensus_op_income": 823158191825,
+          "op_surprise_pct": -6.04
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 10150950935080,
+          "consensus_revenue": 9387304565975,
+          "revenue_surprise_pct": 8.13,
+          "actual_op_income": 989710496450,
+          "consensus_op_income": 932768635868,
+          "op_surprise_pct": 6.1
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 10832433157320,
+          "consensus_revenue": 10506029152993,
+          "revenue_surprise_pct": 3.11,
+          "actual_op_income": 820055617770,
+          "consensus_op_income": 788046147112,
+          "op_surprise_pct": 4.06
+        }
+      ]
+    },
+    "035420.KS": {
+      "sector": "Communication Services",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 2786783351910,
+          "consensus_revenue": 2783253530678,
+          "revenue_surprise_pct": 0.13,
+          "actual_op_income": 505301333940,
+          "consensus_op_income": 501309895155,
+          "op_surprise_pct": 0.8
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 2915085056210,
+          "consensus_revenue": 2861087574065,
+          "revenue_surprise_pct": 1.89,
+          "actual_op_income": 2915085056000,
+          "consensus_op_income": 2766655214803,
+          "op_surprise_pct": 5.36
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3138054569500,
+          "consensus_revenue": 3252800139355,
+          "revenue_surprise_pct": -3.53,
+          "actual_op_income": 570646831170,
+          "consensus_op_income": 581095268119,
+          "op_surprise_pct": -1.8
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 3195084241350,
+          "consensus_revenue": 3291944398853,
+          "revenue_surprise_pct": -2.94,
+          "actual_op_income": 610636476790,
+          "consensus_op_income": 634599275627,
+          "op_surprise_pct": -3.78
+        }
+      ]
+    },
+    "012330.KS": {
+      "sector": "Consumer Cyclical",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 14752034000000,
+          "consensus_revenue": 14127765645600,
+          "revenue_surprise_pct": 4.42,
+          "actual_op_income": 776683000000,
+          "consensus_op_income": 755390722915,
+          "op_surprise_pct": 2.82
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 15936241000000,
+          "consensus_revenue": 16199480560641,
+          "revenue_surprise_pct": -1.62,
+          "actual_op_income": 870000000000,
+          "consensus_op_income": 866620800453,
+          "op_surprise_pct": 0.39
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 15031932000000,
+          "consensus_revenue": 15951837297732,
+          "revenue_surprise_pct": -5.77,
+          "actual_op_income": 780299000000,
+          "consensus_op_income": 830993623685,
+          "op_surprise_pct": -6.1
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 15397920000000,
+          "consensus_revenue": 14001453466052,
+          "revenue_surprise_pct": 9.97,
+          "actual_op_income": 930600000000,
+          "consensus_op_income": 816727756429,
+          "op_surprise_pct": 13.94
+        }
+      ]
+    },
+    "316140.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 3172195000000,
+          "consensus_revenue": 3365887262623,
+          "revenue_surprise_pct": -5.75,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 3398395000000,
+          "consensus_revenue": 3485232815085,
+          "revenue_surprise_pct": -2.49,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3346067000000,
+          "consensus_revenue": 3098936399333,
+          "revenue_surprise_pct": 7.97,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 3374914000000,
+          "consensus_revenue": 3399322477832,
+          "revenue_surprise_pct": -0.72,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "010140.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 2494285868060,
+          "consensus_revenue": 2327330959528,
+          "revenue_surprise_pct": 7.17,
+          "actual_op_income": 123076970390,
+          "consensus_op_income": 113120153037,
+          "op_surprise_pct": 8.8
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 2682977392290,
+          "consensus_revenue": 2594792788082,
+          "revenue_surprise_pct": 3.4,
+          "actual_op_income": 204816240860,
+          "consensus_op_income": 190888293157,
+          "op_surprise_pct": 7.3
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 2634818809910,
+          "consensus_revenue": 2530618143021,
+          "revenue_surprise_pct": 4.12,
+          "actual_op_income": 238082461210,
+          "consensus_op_income": 237654250414,
+          "op_surprise_pct": 0.18
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 2837928632550,
+          "consensus_revenue": 2654980055495,
+          "revenue_surprise_pct": 6.89,
+          "actual_op_income": 296235208040,
+          "consensus_op_income": 281362925631,
+          "op_surprise_pct": 5.29
+        }
+      ]
+    },
+    "329180.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 3822515741000,
+          "consensus_revenue": 3665710988824,
+          "revenue_surprise_pct": 4.28,
+          "actual_op_income": 433734171000,
+          "consensus_op_income": 402391688487,
+          "op_surprise_pct": 7.79
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 4147124837000,
+          "consensus_revenue": 4352431240774,
+          "revenue_surprise_pct": -4.72,
+          "actual_op_income": 473152984000,
+          "consensus_op_income": 513145611705,
+          "op_surprise_pct": -7.79
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 4417898203000,
+          "consensus_revenue": 4659266292563,
+          "revenue_surprise_pct": -5.18,
+          "actual_op_income": 557285392000,
+          "consensus_op_income": 585104779467,
+          "op_surprise_pct": -4.75
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 5193094476000,
+          "consensus_revenue": 5319162913151,
+          "revenue_surprise_pct": -2.37,
+          "actual_op_income": 575034555000,
+          "consensus_op_income": 583977835526,
+          "op_surprise_pct": -1.53
+        }
+      ]
+    },
+    "009540.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 6771705878000,
+          "consensus_revenue": 6437019047384,
+          "revenue_surprise_pct": 5.2,
+          "actual_op_income": 859154446000,
+          "consensus_op_income": 835524268291,
+          "op_surprise_pct": 2.83
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 7428417053000,
+          "consensus_revenue": 7157709246769,
+          "revenue_surprise_pct": 3.78,
+          "actual_op_income": 955338034000,
+          "consensus_op_income": 937581032001,
+          "op_surprise_pct": 1.89
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 7581435732000,
+          "consensus_revenue": 7483769436101,
+          "revenue_surprise_pct": 1.31,
+          "actual_op_income": 1053775225000,
+          "consensus_op_income": 1007936939976,
+          "op_surprise_pct": 4.55
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 8151656564000,
+          "consensus_revenue": 7591144439997,
+          "revenue_surprise_pct": 7.38,
+          "actual_op_income": 1037918873000,
+          "consensus_op_income": 996828114239,
+          "op_surprise_pct": 4.12
+        }
+      ]
+    },
+    "032830.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 5832005000000,
+          "consensus_revenue": 5820318491133,
+          "revenue_surprise_pct": 0.2,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 7281909000000,
+          "consensus_revenue": 7824938047778,
+          "revenue_surprise_pct": -6.94,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 7167579000000,
+          "consensus_revenue": 6903125281172,
+          "revenue_surprise_pct": 3.83,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 7819105000000,
+          "consensus_revenue": 7404390602903,
+          "revenue_surprise_pct": 5.6,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "006800.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 892133000000,
+          "consensus_revenue": 889724714295,
+          "revenue_surprise_pct": 0.27,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1167910000000,
+          "consensus_revenue": 1238778727049,
+          "revenue_surprise_pct": -5.72,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 969165000000,
+          "consensus_revenue": 894337682521,
+          "revenue_surprise_pct": 8.37,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": null,
+          "consensus_revenue": null,
+          "revenue_surprise_pct": null,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "064350.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1176141098000,
+          "consensus_revenue": 1231334505382,
+          "revenue_surprise_pct": -4.48,
+          "actual_op_income": 202852668000,
+          "consensus_op_income": 219212121129,
+          "op_surprise_pct": -7.46
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1417634367000,
+          "consensus_revenue": 1443025968115,
+          "revenue_surprise_pct": -1.76,
+          "actual_op_income": 257586859000,
+          "consensus_op_income": 253949680299,
+          "op_surprise_pct": 1.43
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1619634717000,
+          "consensus_revenue": 1520297288360,
+          "revenue_surprise_pct": 6.53,
+          "actual_op_income": 277743855000,
+          "consensus_op_income": 253833501104,
+          "op_surprise_pct": 9.42
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1625621371000,
+          "consensus_revenue": 1501288849771,
+          "revenue_surprise_pct": 8.28,
+          "actual_op_income": 267457127000,
+          "consensus_op_income": 252407741650,
+          "op_surprise_pct": 5.96
+        }
+      ]
+    },
+    "042660.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 3143089504960,
+          "consensus_revenue": 3232234348355,
+          "revenue_surprise_pct": -2.76,
+          "actual_op_income": 278323169200,
+          "consensus_op_income": 295885907643,
+          "op_surprise_pct": -5.94
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 3294113466280,
+          "consensus_revenue": 3099992666063,
+          "revenue_surprise_pct": 6.26,
+          "actual_op_income": 371703649330,
+          "consensus_op_income": 339967500514,
+          "op_surprise_pct": 9.34
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3023357863130,
+          "consensus_revenue": 3026129324693,
+          "revenue_surprise_pct": -0.09,
+          "actual_op_income": 289759206440,
+          "consensus_op_income": 287249485542,
+          "op_surprise_pct": 0.87
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 3322951443950,
+          "consensus_revenue": 3474894443786,
+          "revenue_surprise_pct": -4.37,
+          "actual_op_income": 242519113010,
+          "consensus_op_income": 244804473230,
+          "op_surprise_pct": -0.93
+        }
+      ]
+    },
+    "035720.KS": {
+      "sector": "Communication Services",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1863730780370,
+          "consensus_revenue": 1730510913475,
+          "revenue_surprise_pct": 7.7,
+          "actual_op_income": 105400864370,
+          "consensus_op_income": 94523187810,
+          "op_surprise_pct": 11.51
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 2028312877030,
+          "consensus_revenue": 1899469589842,
+          "revenue_surprise_pct": 6.78,
+          "actual_op_income": 185925958030,
+          "consensus_op_income": 169278363875,
+          "op_surprise_pct": 9.83
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 2086580139320,
+          "consensus_revenue": 2233514859169,
+          "revenue_surprise_pct": -6.58,
+          "actual_op_income": 208047735320,
+          "consensus_op_income": 218276421807,
+          "op_surprise_pct": -4.69
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 2120524018360,
+          "consensus_revenue": 2149604884517,
+          "revenue_surprise_pct": -1.35,
+          "actual_op_income": 234258822360,
+          "consensus_op_income": 229454773557,
+          "op_surprise_pct": 2.09
+        }
+      ]
+    },
+    "033780.KS": {
+      "sector": "Consumer Defensive",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1491108000000,
+          "consensus_revenue": 1398289574905,
+          "revenue_surprise_pct": 6.64,
+          "actual_op_income": 285560000000,
+          "consensus_op_income": 260665149866,
+          "op_surprise_pct": 9.55
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1547903000000,
+          "consensus_revenue": 1449581667840,
+          "revenue_surprise_pct": 6.78,
+          "actual_op_income": 349882000000,
+          "consensus_op_income": 333483978949,
+          "op_surprise_pct": 4.92
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1826896000000,
+          "consensus_revenue": 1717243693786,
+          "revenue_surprise_pct": 6.39,
+          "actual_op_income": 465289000000,
+          "consensus_op_income": 450642524604,
+          "op_surprise_pct": 3.25
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1713800000000,
+          "consensus_revenue": 1589400259297,
+          "revenue_surprise_pct": 7.83,
+          "actual_op_income": 242935000000,
+          "consensus_op_income": 219462237880,
+          "op_surprise_pct": 10.7
+        }
+      ]
+    },
+    "042700.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 147391786480,
+          "consensus_revenue": 152293547414,
+          "revenue_surprise_pct": -3.22,
+          "actual_op_income": 69632219020,
+          "consensus_op_income": 70113148916,
+          "op_surprise_pct": -0.69
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 180047311090,
+          "consensus_revenue": 178573800465,
+          "revenue_surprise_pct": 0.83,
+          "actual_op_income": 86308097980,
+          "consensus_op_income": 86945686411,
+          "op_surprise_pct": -0.73
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 166231357100,
+          "consensus_revenue": 156055195250,
+          "revenue_surprise_pct": 6.52,
+          "actual_op_income": 67822011260,
+          "consensus_op_income": 64999949166,
+          "op_surprise_pct": 4.34
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 83014164850,
+          "consensus_revenue": 88878077892,
+          "revenue_surprise_pct": -6.6,
+          "actual_op_income": 27627813890,
+          "consensus_op_income": 30377816222,
+          "op_surprise_pct": -9.05
+        }
+      ]
+    },
+    "207940.KS": {
+      "sector": "Healthcare",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1298272949850,
+          "consensus_revenue": 1316967926295,
+          "revenue_surprise_pct": -1.42,
+          "actual_op_income": 486688724780,
+          "consensus_op_income": 479518594926,
+          "op_surprise_pct": 1.5
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1289905421410,
+          "consensus_revenue": 1178672723723,
+          "revenue_surprise_pct": 9.44,
+          "actual_op_income": 475599675960,
+          "consensus_op_income": 441719299025,
+          "op_surprise_pct": 7.67
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1660220823310,
+          "consensus_revenue": 1597822813662,
+          "revenue_surprise_pct": 3.91,
+          "actual_op_income": 728848136510,
+          "consensus_op_income": 706915265901,
+          "op_surprise_pct": 3.1
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 308572500610,
+          "consensus_revenue": 281340063458,
+          "revenue_surprise_pct": 9.68,
+          "actual_op_income": 378084729630,
+          "consensus_op_income": 343809436732,
+          "op_surprise_pct": 9.97
+        }
+      ]
+    },
+    "066570.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 22739812000000,
+          "consensus_revenue": 20868524828897,
+          "revenue_surprise_pct": 8.97,
+          "actual_op_income": 1259059000000,
+          "consensus_op_income": 1189028038016,
+          "op_surprise_pct": 5.89
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 20735142000000,
+          "consensus_revenue": 18936754346216,
+          "revenue_surprise_pct": 9.5,
+          "actual_op_income": 639404000000,
+          "consensus_op_income": 597991012007,
+          "op_surprise_pct": 6.93
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 21873774000000,
+          "consensus_revenue": 20001058242301,
+          "revenue_surprise_pct": 9.36,
+          "actual_op_income": 688918000000,
+          "consensus_op_income": 640932568976,
+          "op_surprise_pct": 7.49
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 23852154000000,
+          "consensus_revenue": 25149134261913,
+          "revenue_surprise_pct": -5.16,
+          "actual_op_income": -108989000000,
+          "consensus_op_income": -115553167090,
+          "op_surprise_pct": 5.68
+        }
+      ]
+    },
+    "034730.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 31229933000000,
+          "consensus_revenue": 29634060031489,
+          "revenue_surprise_pct": 5.39,
+          "actual_op_income": 399781000000,
+          "consensus_op_income": 384794469276,
+          "op_surprise_pct": 3.89
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 30141963000000,
+          "consensus_revenue": 29177486448987,
+          "revenue_surprise_pct": 3.31,
+          "actual_op_income": 199554000000,
+          "consensus_op_income": 192997983965,
+          "op_surprise_pct": 3.4
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 31041366000000,
+          "consensus_revenue": 31182209063860,
+          "revenue_surprise_pct": -0.45,
+          "actual_op_income": 827400000000,
+          "consensus_op_income": 826069806927,
+          "op_surprise_pct": 0.16
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 30290076000000,
+          "consensus_revenue": 31120916522073,
+          "revenue_surprise_pct": -2.67,
+          "actual_op_income": 391741000000,
+          "consensus_op_income": 395695722034,
+          "op_surprise_pct": -1.0
+        }
+      ]
+    },
+    "000810.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 5131156115090,
+          "consensus_revenue": 5515666952081,
+          "revenue_surprise_pct": -6.97,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 5195832257330,
+          "consensus_revenue": 5086289653385,
+          "revenue_surprise_pct": 2.15,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 5235630407900,
+          "consensus_revenue": 4957365955187,
+          "revenue_surprise_pct": 5.61,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 5113854098550,
+          "consensus_revenue": 5155522837510,
+          "revenue_surprise_pct": -0.81,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "017670.KS": {
+      "sector": "Communication Services",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 4453717000000,
+          "consensus_revenue": 4270428474234,
+          "revenue_surprise_pct": 4.29,
+          "actual_op_income": 574886000000,
+          "consensus_op_income": 558501569356,
+          "op_surprise_pct": 2.93
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 4338760000000,
+          "consensus_revenue": 4412153258941,
+          "revenue_surprise_pct": -1.66,
+          "actual_op_income": 338260000000,
+          "consensus_op_income": 334511172752,
+          "op_surprise_pct": 1.12
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3978064000000,
+          "consensus_revenue": 3780142452050,
+          "revenue_surprise_pct": 5.24,
+          "actual_op_income": 61227000000,
+          "consensus_op_income": 59077523037,
+          "op_surprise_pct": 3.64
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 4328672000000,
+          "consensus_revenue": 4405421524336,
+          "revenue_surprise_pct": -1.74,
+          "actual_op_income": 28249000000,
+          "consensus_op_income": 28965911367,
+          "op_surprise_pct": -2.48
+        }
+      ]
+    },
+    "015760.KS": {
+      "sector": "Utilities",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 24223984000000,
+          "consensus_revenue": 24262608476219,
+          "revenue_surprise_pct": -0.16,
+          "actual_op_income": 3791062000000,
+          "consensus_op_income": 3860314175632,
+          "op_surprise_pct": -1.79
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 21950138000000,
+          "consensus_revenue": 23065615964188,
+          "revenue_surprise_pct": -4.84,
+          "actual_op_income": 2115856000000,
+          "consensus_op_income": 2238350556716,
+          "op_surprise_pct": -5.47
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 27572384000000,
+          "consensus_revenue": 25298972211168,
+          "revenue_surprise_pct": 8.99,
+          "actual_op_income": 5680294000000,
+          "consensus_op_income": 5144973596349,
+          "op_surprise_pct": 10.4
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 22821080000000,
+          "consensus_revenue": 21062820166306,
+          "revenue_surprise_pct": 8.35,
+          "actual_op_income": 1983498000000,
+          "consensus_op_income": 1815196375497,
+          "op_surprise_pct": 9.27
+        }
+      ]
+    },
+    "030200.KS": {
+      "sector": "Communication Services",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 6845117000000,
+          "consensus_revenue": 6976544787750,
+          "revenue_surprise_pct": -1.88,
+          "actual_op_income": 684364000000,
+          "consensus_op_income": 694788286821,
+          "op_surprise_pct": -1.5
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 7427337000000,
+          "consensus_revenue": 7985791293065,
+          "revenue_surprise_pct": -6.99,
+          "actual_op_income": 1011267000000,
+          "consensus_op_income": 1107604068004,
+          "op_surprise_pct": -8.7
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 7126734000000,
+          "consensus_revenue": 7104844078426,
+          "revenue_surprise_pct": 0.31,
+          "actual_op_income": 533456000000,
+          "consensus_op_income": 528446450254,
+          "op_surprise_pct": 0.95
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 6854005000000,
+          "consensus_revenue": 6582161998867,
+          "revenue_surprise_pct": 4.13,
+          "actual_op_income": 362776000000,
+          "consensus_op_income": 349327246410,
+          "op_surprise_pct": 3.85
+        }
+      ]
+    },
+    "267250.KS": {
+      "sector": "Energy",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 17086949449000,
+          "consensus_revenue": 16999112216334,
+          "revenue_surprise_pct": 0.52,
+          "actual_op_income": 1286447862000,
+          "consensus_op_income": 1309677243223,
+          "op_surprise_pct": -1.77
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 17211008448000,
+          "consensus_revenue": 17033154186259,
+          "revenue_surprise_pct": 1.04,
+          "actual_op_income": 1140583949000,
+          "consensus_op_income": 1094047419237,
+          "op_surprise_pct": 4.25
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 18224352744000,
+          "consensus_revenue": 17106860602855,
+          "revenue_surprise_pct": 6.53,
+          "actual_op_income": 1702387189000,
+          "consensus_op_income": 1638644695395,
+          "op_surprise_pct": 3.89
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 18737127628000,
+          "consensus_revenue": 19839925077165,
+          "revenue_surprise_pct": -5.56,
+          "actual_op_income": 1971981252000,
+          "consensus_op_income": 2085315209974,
+          "op_surprise_pct": -5.43
+        }
+      ]
+    },
+    "079550.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 907622648220,
+          "consensus_revenue": 874732744709,
+          "revenue_surprise_pct": 3.76,
+          "actual_op_income": 113596927340,
+          "consensus_op_income": 110889558122,
+          "op_surprise_pct": 2.44
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 945351323740,
+          "consensus_revenue": 884223214244,
+          "revenue_surprise_pct": 6.91,
+          "actual_op_income": 77579429280,
+          "consensus_op_income": 71224557719,
+          "op_surprise_pct": 8.92
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1049197515920,
+          "consensus_revenue": 1004617355553,
+          "revenue_surprise_pct": 4.44,
+          "actual_op_income": 89588427230,
+          "consensus_op_income": 87630197507,
+          "op_surprise_pct": 2.23
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1404764639530,
+          "consensus_revenue": 1457448353536,
+          "revenue_surprise_pct": -3.61,
+          "actual_op_income": 38677525780,
+          "consensus_op_income": 41777133421,
+          "op_surprise_pct": -7.42
+        }
+      ]
+    },
+    "000720.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 7455579000000,
+          "consensus_revenue": 7673323105776,
+          "revenue_surprise_pct": -2.84,
+          "actual_op_income": 215476000000,
+          "consensus_op_income": 222224023581,
+          "op_surprise_pct": -3.04
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 7720720000000,
+          "consensus_revenue": 7185705373992,
+          "revenue_surprise_pct": 7.45,
+          "actual_op_income": 218105000000,
+          "consensus_op_income": 209659563404,
+          "op_surprise_pct": 4.03
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 7826469000000,
+          "consensus_revenue": 7822909796104,
+          "revenue_surprise_pct": 0.05,
+          "actual_op_income": 104551000000,
+          "consensus_op_income": 103430209324,
+          "op_surprise_pct": 1.08
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 8060144000000,
+          "consensus_revenue": 8369358396971,
+          "revenue_surprise_pct": -3.69,
+          "actual_op_income": 120256000000,
+          "consensus_op_income": 122865374237,
+          "op_surprise_pct": -2.12
+        }
+      ]
+    },
+    "010130.KS": {
+      "sector": "Basic Materials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 3832784741870,
+          "consensus_revenue": 3779702156020,
+          "revenue_surprise_pct": 1.4,
+          "actual_op_income": 271106225330,
+          "consensus_op_income": 272862676789,
+          "op_surprise_pct": -0.64
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 3825380317090,
+          "consensus_revenue": 3672847468964,
+          "revenue_surprise_pct": 4.15,
+          "actual_op_income": 258996572250,
+          "consensus_op_income": 258486462827,
+          "op_surprise_pct": 0.2
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 4159797406120,
+          "consensus_revenue": 3933004772222,
+          "revenue_surprise_pct": 5.77,
+          "actual_op_income": 273406535400,
+          "consensus_op_income": 253325978826,
+          "op_surprise_pct": 7.93
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 4769888314830,
+          "consensus_revenue": 5030891783403,
+          "revenue_surprise_pct": -5.19,
+          "actual_op_income": 428529174600,
+          "consensus_op_income": 454850685129,
+          "op_surprise_pct": -5.79
+        }
+      ]
+    },
+    "047810.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 699256592260,
+          "consensus_revenue": 728467607238,
+          "revenue_surprise_pct": -4.01,
+          "actual_op_income": 46812915300,
+          "consensus_op_income": 46975543727,
+          "op_surprise_pct": -0.35
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 828336336030,
+          "consensus_revenue": 813647702486,
+          "revenue_surprise_pct": 1.81,
+          "actual_op_income": 85215939200,
+          "consensus_op_income": 86771731318,
+          "op_surprise_pct": -1.79
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 702116311020,
+          "consensus_revenue": 722071695574,
+          "revenue_surprise_pct": -2.76,
+          "actual_op_income": 60191688420,
+          "consensus_op_income": 60177810494,
+          "op_surprise_pct": 0.02
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1466670112290,
+          "consensus_revenue": 1455609647348,
+          "revenue_surprise_pct": 0.76,
+          "actual_op_income": 76969653810,
+          "consensus_op_income": 74603829228,
+          "op_surprise_pct": 3.17
+        }
+      ]
+    },
+    "278470.KS": {
+      "sector": "Consumer Defensive",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 266032725960,
+          "consensus_revenue": 254945597135,
+          "revenue_surprise_pct": 4.35,
+          "actual_op_income": 54568141530,
+          "consensus_op_income": 50408455409,
+          "op_surprise_pct": 8.25
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 327734894610,
+          "consensus_revenue": 317810654931,
+          "revenue_surprise_pct": 3.12,
+          "actual_op_income": 84552442280,
+          "consensus_op_income": 79226068704,
+          "op_surprise_pct": 6.72
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 385942757340,
+          "consensus_revenue": 356844775298,
+          "revenue_surprise_pct": 8.15,
+          "actual_op_income": 96127666870,
+          "consensus_op_income": 88145671448,
+          "op_surprise_pct": 9.06
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 547634595480,
+          "consensus_revenue": 520428382912,
+          "revenue_surprise_pct": 5.23,
+          "actual_op_income": 130272376980,
+          "consensus_op_income": 123755554684,
+          "op_surprise_pct": 5.27
+        }
+      ]
+    },
+    "071050.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1083449136910,
+          "consensus_revenue": 1011438027566,
+          "revenue_surprise_pct": 7.12,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1324847000000,
+          "consensus_revenue": 1223848445011,
+          "revenue_surprise_pct": 8.25,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1529751000000,
+          "consensus_revenue": 1513563956781,
+          "revenue_surprise_pct": 1.07,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1012109000000,
+          "consensus_revenue": 1041231457339,
+          "revenue_surprise_pct": -2.8,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "000150.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 4298676000000,
+          "consensus_revenue": 4054634344898,
+          "revenue_surprise_pct": 6.02,
+          "actual_op_income": 198460000000,
+          "consensus_op_income": 186892774227,
+          "op_surprise_pct": 6.19
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 5346439000000,
+          "consensus_revenue": 5157930891280,
+          "revenue_surprise_pct": 3.65,
+          "actual_op_income": 357778000000,
+          "consensus_op_income": 351274148586,
+          "op_surprise_pct": 1.85
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 4452365000000,
+          "consensus_revenue": 4720628047431,
+          "revenue_surprise_pct": -5.68,
+          "actual_op_income": 231269000000,
+          "consensus_op_income": 249742335077,
+          "op_surprise_pct": -7.4
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 5686658000000,
+          "consensus_revenue": 5825350459093,
+          "revenue_surprise_pct": -2.38,
+          "actual_op_income": 275239000000,
+          "consensus_op_income": 286180143764,
+          "op_surprise_pct": -3.82
+        }
+      ]
+    },
+    "003550.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1936098000000,
+          "consensus_revenue": 1894743558574,
+          "revenue_surprise_pct": 2.18,
+          "actual_op_income": 638042000000,
+          "consensus_op_income": 642607208362,
+          "op_surprise_pct": -0.71
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1797748000000,
+          "consensus_revenue": 1854659235832,
+          "revenue_surprise_pct": -3.07,
+          "actual_op_income": 277226000000,
+          "consensus_op_income": 281496174077,
+          "op_surprise_pct": -1.52
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1996180000000,
+          "consensus_revenue": 1900958599768,
+          "revenue_surprise_pct": 5.01,
+          "actual_op_income": 419173000000,
+          "consensus_op_income": 412884943100,
+          "op_surprise_pct": 1.52
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1522521000000,
+          "consensus_revenue": 1523599871973,
+          "revenue_surprise_pct": -0.07,
+          "actual_op_income": -421389000000,
+          "consensus_op_income": -420253984726,
+          "op_surprise_pct": -0.27
+        }
+      ]
+    },
+    "138040.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1146468753260,
+          "consensus_revenue": 1145687829753,
+          "revenue_surprise_pct": 0.07,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1354027458440,
+          "consensus_revenue": 1352101527699,
+          "revenue_surprise_pct": 0.14,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1207575558130,
+          "consensus_revenue": 1173208183713,
+          "revenue_surprise_pct": 2.93,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 578636303460,
+          "consensus_revenue": 537943839979,
+          "revenue_surprise_pct": 7.56,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "028050.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 2097955167200,
+          "consensus_revenue": 2109208268055,
+          "revenue_surprise_pct": -0.53,
+          "actual_op_income": 141945836910,
+          "consensus_op_income": 148613148608,
+          "op_surprise_pct": -4.49
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 2178022750180,
+          "consensus_revenue": 2200469749901,
+          "revenue_surprise_pct": -1.02,
+          "actual_op_income": 200019582490,
+          "consensus_op_income": 198024092431,
+          "op_surprise_pct": 1.01
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1995609066760,
+          "consensus_revenue": 1856231766911,
+          "revenue_surprise_pct": 7.51,
+          "actual_op_income": 153675509510,
+          "consensus_op_income": 138276912515,
+          "op_surprise_pct": 11.14
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 2757182099520,
+          "consensus_revenue": 2753784980670,
+          "revenue_surprise_pct": 0.12,
+          "actual_op_income": 208223737100,
+          "consensus_op_income": 203934011363,
+          "op_surprise_pct": 2.1
+        }
+      ]
+    },
+    "086280.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 7223390117790,
+          "consensus_revenue": 7062074727695,
+          "revenue_surprise_pct": 2.28,
+          "actual_op_income": 501884039180,
+          "consensus_op_income": 486744956920,
+          "op_surprise_pct": 3.11
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 7515967179640,
+          "consensus_revenue": 7768509153231,
+          "revenue_surprise_pct": -3.25,
+          "actual_op_income": 538878486390,
+          "consensus_op_income": 570214445137,
+          "op_surprise_pct": -5.5
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 7355054260530,
+          "consensus_revenue": 7325079187314,
+          "revenue_surprise_pct": 0.41,
+          "actual_op_income": 524409518700,
+          "consensus_op_income": 542634381962,
+          "op_surprise_pct": -3.36
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 7471997778660,
+          "consensus_revenue": 7569323976580,
+          "revenue_surprise_pct": -1.29,
+          "actual_op_income": 508266083190,
+          "consensus_op_income": 507518319284,
+          "op_surprise_pct": 0.15
+        }
+      ]
+    },
+    "323410.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 408764000000,
+          "consensus_revenue": 409282219331,
+          "revenue_surprise_pct": -0.13,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 403542000000,
+          "consensus_revenue": 399761723076,
+          "revenue_surprise_pct": 0.95,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 393260000000,
+          "consensus_revenue": 379673870438,
+          "revenue_surprise_pct": 3.58,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 386698000000,
+          "consensus_revenue": 387868025784,
+          "revenue_surprise_pct": -0.3,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "272210.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 690100705520,
+          "consensus_revenue": 738385705063,
+          "revenue_surprise_pct": -6.54,
+          "actual_op_income": 58164352800,
+          "consensus_op_income": 61482741129,
+          "op_surprise_pct": -5.4
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 768190548880,
+          "consensus_revenue": 806017842507,
+          "revenue_surprise_pct": -4.69,
+          "actual_op_income": 93413000000,
+          "consensus_op_income": 98328978069,
+          "op_surprise_pct": -5.0
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 807736584420,
+          "consensus_revenue": 860623272078,
+          "revenue_surprise_pct": -6.15,
+          "actual_op_income": 22520994650,
+          "consensus_op_income": 24245408165,
+          "op_surprise_pct": -7.11
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1398122729200,
+          "consensus_revenue": 1447358615168,
+          "revenue_surprise_pct": -3.4,
+          "actual_op_income": 5761907510,
+          "consensus_op_income": 6051598036,
+          "op_surprise_pct": -4.79
+        }
+      ]
+    },
+    "011070.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 4982840285150,
+          "consensus_revenue": 4703414874114,
+          "revenue_surprise_pct": 5.94,
+          "actual_op_income": 125116081890,
+          "consensus_op_income": 119187783153,
+          "op_surprise_pct": 4.97
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 3934575006460,
+          "consensus_revenue": 3719436583022,
+          "revenue_surprise_pct": 5.78,
+          "actual_op_income": 11392030460,
+          "consensus_op_income": 10505419171,
+          "op_surprise_pct": 8.44
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 5369431000000,
+          "consensus_revenue": 5519074295162,
+          "revenue_surprise_pct": -2.71,
+          "actual_op_income": 203749000000,
+          "consensus_op_income": 216883772072,
+          "op_surprise_pct": -6.06
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 7609756000000,
+          "consensus_revenue": 8153643494515,
+          "revenue_surprise_pct": -6.67,
+          "actual_op_income": 324750000000,
+          "consensus_op_income": 346788890862,
+          "op_surprise_pct": -6.36
+        }
+      ]
+    },
+    "259960.KS": {
+      "sector": "Communication Services",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 874184373850,
+          "consensus_revenue": 794724387734,
+          "revenue_surprise_pct": 10.0,
+          "actual_op_income": 457276029850,
+          "consensus_op_income": 420297747201,
+          "op_surprise_pct": 8.8
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 662048249150,
+          "consensus_revenue": 636263972437,
+          "revenue_surprise_pct": 4.05,
+          "actual_op_income": 246063427150,
+          "consensus_op_income": 231475137212,
+          "op_surprise_pct": 6.3
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 870623522830,
+          "consensus_revenue": 836495918595,
+          "revenue_surprise_pct": 4.08,
+          "actual_op_income": 348608416830,
+          "consensus_op_income": 328523493202,
+          "op_surprise_pct": 6.11
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 919697549140,
+          "consensus_revenue": 842650635514,
+          "revenue_surprise_pct": 9.14,
+          "actual_op_income": 2472106140,
+          "consensus_op_income": 2316044465,
+          "op_surprise_pct": 6.74
+        }
+      ]
+    },
+    "007660.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 252489862720,
+          "consensus_revenue": 270486810023,
+          "revenue_surprise_pct": -6.65,
+          "actual_op_income": 47684121440,
+          "consensus_op_income": 52651518960,
+          "op_surprise_pct": -9.43
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 241419469660,
+          "consensus_revenue": 253736454841,
+          "revenue_surprise_pct": -4.85,
+          "actual_op_income": 42070314820,
+          "consensus_op_income": 43595536339,
+          "op_surprise_pct": -3.5
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 296132768430,
+          "consensus_revenue": 288663645972,
+          "revenue_surprise_pct": 2.59,
+          "actual_op_income": 58570782050,
+          "consensus_op_income": 58377436435,
+          "op_surprise_pct": 0.33
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 297983018360,
+          "consensus_revenue": 284088520113,
+          "revenue_surprise_pct": 4.89,
+          "actual_op_income": 56818711030,
+          "consensus_op_income": 53088654740,
+          "op_surprise_pct": 7.03
+        }
+      ]
+    },
+    "005830.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 4482258504780,
+          "consensus_revenue": 4676208193954,
+          "revenue_surprise_pct": -4.15,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 4747602000000,
+          "consensus_revenue": 4490955732284,
+          "revenue_surprise_pct": 5.71,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 4676460000000,
+          "consensus_revenue": 4373461351051,
+          "revenue_surprise_pct": 6.93,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 4761804000000,
+          "consensus_revenue": 5021004376166,
+          "revenue_surprise_pct": -5.16,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "047040.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 2076668652790,
+          "consensus_revenue": 2112512214645,
+          "revenue_surprise_pct": -1.7,
+          "actual_op_income": 119723026290,
+          "consensus_op_income": 120056722209,
+          "op_surprise_pct": -0.28
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 2273320646520,
+          "consensus_revenue": 2080101319431,
+          "revenue_surprise_pct": 9.29,
+          "actual_op_income": 73573158720,
+          "consensus_op_income": 67833011412,
+          "op_surprise_pct": 8.46
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1990611305710,
+          "consensus_revenue": 1893021324164,
+          "revenue_surprise_pct": 5.16,
+          "actual_op_income": 35049569130,
+          "consensus_op_income": 34442275418,
+          "op_surprise_pct": 1.76
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1714026532830,
+          "consensus_revenue": 1636451450698,
+          "revenue_surprise_pct": 4.74,
+          "actual_op_income": -1133791035300,
+          "consensus_op_income": -1072057826425,
+          "op_surprise_pct": -5.76
+        }
+      ]
+    },
+    "016360.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 604744351110,
+          "consensus_revenue": 638371716340,
+          "revenue_surprise_pct": -5.27,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 616601259340,
+          "consensus_revenue": 573822851466,
+          "revenue_surprise_pct": 7.45,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 663579974370,
+          "consensus_revenue": 698079509772,
+          "revenue_surprise_pct": -4.94,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 659727720710,
+          "consensus_revenue": 620600118901,
+          "revenue_surprise_pct": 6.3,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "018260.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 3489763580130,
+          "consensus_revenue": 3479935330144,
+          "revenue_surprise_pct": 0.28,
+          "actual_op_income": 268563477630,
+          "consensus_op_income": 270601122388,
+          "op_surprise_pct": -0.75
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 3511984578640,
+          "consensus_revenue": 3456632369150,
+          "revenue_surprise_pct": 1.6,
+          "actual_op_income": 230161002930,
+          "consensus_op_income": 229401265342,
+          "op_surprise_pct": 0.33
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3391317620510,
+          "consensus_revenue": 3156393981884,
+          "revenue_surprise_pct": 7.44,
+          "actual_op_income": 232295633960,
+          "consensus_op_income": 211136710019,
+          "op_surprise_pct": 10.02
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 3536802718430,
+          "consensus_revenue": 3731034368094,
+          "revenue_surprise_pct": -5.21,
+          "actual_op_income": 226082631410,
+          "consensus_op_income": 229571052305,
+          "op_surprise_pct": -1.52
+        }
+      ]
+    },
+    "011200.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 2854682000000,
+          "consensus_revenue": 2750044278137,
+          "revenue_surprise_pct": 3.8,
+          "actual_op_income": 613899000000,
+          "consensus_op_income": 576785152082,
+          "op_surprise_pct": 6.43
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 2622747000000,
+          "consensus_revenue": 2497277606211,
+          "revenue_surprise_pct": 5.02,
+          "actual_op_income": 236644000000,
+          "consensus_op_income": 226435941457,
+          "op_surprise_pct": 4.51
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 2706392000000,
+          "consensus_revenue": 2565920182128,
+          "revenue_surprise_pct": 5.47,
+          "actual_op_income": 296717000000,
+          "consensus_op_income": 271723069661,
+          "op_surprise_pct": 9.2
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 2707622000000,
+          "consensus_revenue": 2774447317600,
+          "revenue_surprise_pct": -2.41,
+          "actual_op_income": 317173000000,
+          "consensus_op_income": 316992331840,
+          "op_surprise_pct": 0.06
+        }
+      ]
+    },
+    "039490.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 582542870800,
+          "consensus_revenue": 570287732958,
+          "revenue_surprise_pct": 2.15,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 685624290720,
+          "consensus_revenue": 682860301788,
+          "revenue_surprise_pct": 0.4,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 648995930560,
+          "consensus_revenue": 665208906613,
+          "revenue_surprise_pct": -2.44,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 672577908390,
+          "consensus_revenue": 627859100292,
+          "revenue_surprise_pct": 7.12,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "003490.KS": {
+      "sector": "Industrials",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 6491861987200,
+          "consensus_revenue": 6011666306442,
+          "revenue_surprise_pct": 7.99,
+          "actual_op_income": 431046202610,
+          "consensus_op_income": 406882901466,
+          "op_surprise_pct": 5.94
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 6210705839440,
+          "consensus_revenue": 6155305386794,
+          "revenue_surprise_pct": 0.9,
+          "actual_op_income": 370083817080,
+          "consensus_op_income": 363601894948,
+          "op_surprise_pct": 1.78
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 6026889432500,
+          "consensus_revenue": 6060658319423,
+          "revenue_surprise_pct": -0.56,
+          "actual_op_income": 157543951000,
+          "consensus_op_income": 164670188171,
+          "op_surprise_pct": -4.33
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 6496085120360,
+          "consensus_revenue": 6044770567973,
+          "revenue_surprise_pct": 7.47,
+          "actual_op_income": 154915456260,
+          "consensus_op_income": 147649735228,
+          "op_surprise_pct": 4.92
+        }
+      ]
+    },
+    "024110.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 2419816000000,
+          "consensus_revenue": 2504828956653,
+          "revenue_surprise_pct": -3.39,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 2555218000000,
+          "consensus_revenue": 2586625836928,
+          "revenue_surprise_pct": -1.21,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1988855000000,
+          "consensus_revenue": 1895589643633,
+          "revenue_surprise_pct": 4.92,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 3761576000000,
+          "consensus_revenue": 4037214002548,
+          "revenue_surprise_pct": -6.83,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "000100.KS": {
+      "sector": "Healthcare",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 491563987280,
+          "consensus_revenue": 520419035182,
+          "revenue_surprise_pct": -5.54,
+          "actual_op_income": 6419672210,
+          "consensus_op_income": 6672144998,
+          "op_surprise_pct": -3.78
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 578987017430,
+          "consensus_revenue": 571523924310,
+          "revenue_surprise_pct": 1.31,
+          "actual_op_income": 49861016060,
+          "consensus_op_income": 48234948128,
+          "op_surprise_pct": 3.37
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 570013578020,
+          "consensus_revenue": 544215796767,
+          "revenue_surprise_pct": 4.74,
+          "actual_op_income": 22013818200,
+          "consensus_op_income": 20785875563,
+          "op_surprise_pct": 5.91
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 546073003630,
+          "consensus_revenue": 538831311803,
+          "revenue_surprise_pct": 1.34,
+          "actual_op_income": 26079987710,
+          "consensus_op_income": 25152507691,
+          "op_surprise_pct": 3.69
+        }
+      ]
+    },
+    "180640.KS": {
+      "sector": "Consumer Cyclical",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 62668004000,
+          "consensus_revenue": 66257919738,
+          "revenue_surprise_pct": -5.42,
+          "actual_op_income": 6757307000,
+          "consensus_op_income": 7316691622,
+          "op_surprise_pct": -7.65
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 70664384000,
+          "consensus_revenue": 67453347242,
+          "revenue_surprise_pct": 4.76,
+          "actual_op_income": 9896774000,
+          "consensus_op_income": 9588965347,
+          "op_surprise_pct": 3.21
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 85401720000,
+          "consensus_revenue": 83005803185,
+          "revenue_surprise_pct": 2.89,
+          "actual_op_income": -36548924000,
+          "consensus_op_income": -35597568702,
+          "op_surprise_pct": -2.67
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 79627998050,
+          "consensus_revenue": 78047020756,
+          "revenue_surprise_pct": 2.03,
+          "actual_op_income": 12394355320,
+          "consensus_op_income": 12219650568,
+          "op_surprise_pct": 1.43
+        }
+      ]
+    },
+    "352820.KS": {
+      "sector": "Communication Services",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 500613449000,
+          "consensus_revenue": 473702852186,
+          "revenue_surprise_pct": 5.68,
+          "actual_op_income": 21622540000,
+          "consensus_op_income": 20725691096,
+          "op_surprise_pct": 4.33
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 705649177000,
+          "consensus_revenue": 672376402022,
+          "revenue_surprise_pct": 4.95,
+          "actual_op_income": 65918974000,
+          "consensus_op_income": 63927091842,
+          "op_surprise_pct": 3.12
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 727180687000,
+          "consensus_revenue": 747560206149,
+          "revenue_surprise_pct": -2.73,
+          "actual_op_income": -42197879000,
+          "consensus_op_income": -44777459370,
+          "op_surprise_pct": 5.76
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 716426933000,
+          "consensus_revenue": 744154633304,
+          "revenue_surprise_pct": -3.73,
+          "actual_op_income": 3974641000,
+          "consensus_op_income": 4263247009,
+          "op_surprise_pct": -6.77
+        }
+      ]
+    },
+    "009830.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 3094476000000,
+          "consensus_revenue": 3030541056823,
+          "revenue_surprise_pct": 2.11,
+          "actual_op_income": 30343000000,
+          "consensus_op_income": 29117948425,
+          "op_surprise_pct": 4.21
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 3117265000000,
+          "consensus_revenue": 3242167987476,
+          "revenue_surprise_pct": -3.85,
+          "actual_op_income": 102067000000,
+          "consensus_op_income": 108722300319,
+          "op_surprise_pct": -6.12
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 3364316000000,
+          "consensus_revenue": 3323392542424,
+          "revenue_surprise_pct": 1.23,
+          "actual_op_income": -7418000000,
+          "consensus_op_income": -7199980557,
+          "op_surprise_pct": -3.03
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 3756998000000,
+          "consensus_revenue": 3427845342091,
+          "revenue_surprise_pct": 9.6,
+          "actual_op_income": -489548000000,
+          "consensus_op_income": -445856658648,
+          "op_surprise_pct": -9.8
+        }
+      ]
+    },
+    "003230.KS": {
+      "sector": "Consumer Defensive",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 529013206880,
+          "consensus_revenue": 540852589286,
+          "revenue_surprise_pct": -2.19,
+          "actual_op_income": 133988454000,
+          "consensus_op_income": 141614109217,
+          "op_surprise_pct": -5.38
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 553077609230,
+          "consensus_revenue": 574327742433,
+          "revenue_surprise_pct": -3.7,
+          "actual_op_income": 120087956790,
+          "consensus_op_income": 127590448512,
+          "op_surprise_pct": -5.88
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 632015696590,
+          "consensus_revenue": 658003503899,
+          "revenue_surprise_pct": -3.95,
+          "actual_op_income": 130899732230,
+          "consensus_op_income": 142029608094,
+          "op_surprise_pct": -7.84
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 637678651080,
+          "consensus_revenue": 624683384388,
+          "revenue_surprise_pct": 2.08,
+          "actual_op_income": 139212264460,
+          "consensus_op_income": 138830775354,
+          "op_surprise_pct": 0.27
+        }
+      ]
+    },
+    "005940.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 554522000000,
+          "consensus_revenue": 506121528262,
+          "revenue_surprise_pct": 9.56,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 651115000000,
+          "consensus_revenue": 620960561024,
+          "revenue_surprise_pct": 4.86,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 729782000000,
+          "consensus_revenue": 677204893224,
+          "revenue_surprise_pct": 7.76,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 784432000000,
+          "consensus_revenue": 727428954098,
+          "revenue_surprise_pct": 7.84,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "010060.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 538788090000,
+          "consensus_revenue": 533560540930,
+          "revenue_surprise_pct": 0.98,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 526975389000,
+          "consensus_revenue": 548166506296,
+          "revenue_surprise_pct": -3.87,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 845110460000,
+          "consensus_revenue": 775344346544,
+          "revenue_surprise_pct": 9.0,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": -560046155000,
+          "consensus_revenue": -523525214211,
+          "revenue_surprise_pct": -6.98,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "010950.KS": {
+      "sector": "Energy",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 8990533000000,
+          "consensus_revenue": 9538076092378,
+          "revenue_surprise_pct": -5.74,
+          "actual_op_income": -21541000000,
+          "consensus_op_income": -22604552668,
+          "op_surprise_pct": 4.71
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 8048504000000,
+          "consensus_revenue": 8570320450775,
+          "revenue_surprise_pct": -6.09,
+          "actual_op_income": -343971000000,
+          "consensus_op_income": -377554739741,
+          "op_surprise_pct": 8.9
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 8415367000000,
+          "consensus_revenue": 8204649197571,
+          "revenue_surprise_pct": 2.57,
+          "actual_op_income": 229216000000,
+          "consensus_op_income": 226948877742,
+          "op_surprise_pct": 1.0
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 8792553000000,
+          "consensus_revenue": 8000750116976,
+          "revenue_surprise_pct": 9.9,
+          "actual_op_income": 371927000000,
+          "consensus_op_income": 348102122855,
+          "op_surprise_pct": 6.84
+        }
+      ]
+    },
+    "138930.KS": {
+      "sector": "Financial Services",
+      "is_financial": true,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 964384939900,
+          "consensus_revenue": 909835407136,
+          "revenue_surprise_pct": 6.0,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 943224275380,
+          "consensus_revenue": 886134242866,
+          "revenue_surprise_pct": 6.44,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 999978199490,
+          "consensus_revenue": 981489555880,
+          "revenue_surprise_pct": 1.88,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1117921978990,
+          "consensus_revenue": 1112069633936,
+          "revenue_surprise_pct": 0.53,
+          "actual_op_income": null,
+          "consensus_op_income": null,
+          "op_surprise_pct": null,
+          "op_note": "금융업 — 영업이익 서프라이즈 미산출 (수익 구조 상이)"
+        }
+      ]
+    },
+    "034220.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 6065298000000,
+          "consensus_revenue": 5522415234765,
+          "revenue_surprise_pct": 9.83,
+          "actual_op_income": 33464000000,
+          "consensus_op_income": 30906895334,
+          "op_surprise_pct": 8.27
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 5586956000000,
+          "consensus_revenue": 5395029734678,
+          "revenue_surprise_pct": 3.56,
+          "actual_op_income": -116033000000,
+          "consensus_op_income": -111105991734,
+          "op_surprise_pct": -4.43
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 6956978000000,
+          "consensus_revenue": 6589200571322,
+          "revenue_surprise_pct": 5.58,
+          "actual_op_income": 431037000000,
+          "consensus_op_income": 394859065557,
+          "op_surprise_pct": 9.16
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 7200850000000,
+          "consensus_revenue": 7459516615983,
+          "revenue_surprise_pct": -3.47,
+          "actual_op_income": 168509000000,
+          "consensus_op_income": 178845185896,
+          "op_surprise_pct": -5.78
+        }
+      ]
+    },
+    "064400.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 1211380726000,
+          "consensus_revenue": 1162249216695,
+          "revenue_surprise_pct": 4.23,
+          "actual_op_income": 78895171000,
+          "consensus_op_income": 77741690270,
+          "op_surprise_pct": 1.48
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1460159054000,
+          "consensus_revenue": 1521715008100,
+          "revenue_surprise_pct": -4.05,
+          "actual_op_income": 239027480000,
+          "consensus_op_income": 258253555173,
+          "op_surprise_pct": -7.44
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1522342589000,
+          "consensus_revenue": 1636127267891,
+          "revenue_surprise_pct": -6.95,
+          "actual_op_income": 120407249000,
+          "consensus_op_income": 129959931795,
+          "op_surprise_pct": -7.35
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1935660349000,
+          "consensus_revenue": 1877553989922,
+          "revenue_surprise_pct": 3.09,
+          "actual_op_income": 212277295000,
+          "consensus_op_income": 209295122824,
+          "op_surprise_pct": 1.42
+        }
+      ]
+    },
+    "307950.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 833010234000,
+          "consensus_revenue": 859348438781,
+          "revenue_surprise_pct": -3.06,
+          "actual_op_income": 26710457000,
+          "consensus_op_income": 27092256624,
+          "op_surprise_pct": -1.41
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 1042052024000,
+          "consensus_revenue": 992895850537,
+          "revenue_surprise_pct": 4.95,
+          "actual_op_income": 122699264000,
+          "consensus_op_income": 117322335492,
+          "op_surprise_pct": 4.58
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 1054258216000,
+          "consensus_revenue": 1007071443993,
+          "revenue_surprise_pct": 4.69,
+          "actual_op_income": 70755406000,
+          "consensus_op_income": 65467690616,
+          "op_surprise_pct": 8.08
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 1322746787000,
+          "consensus_revenue": 1243263970832,
+          "revenue_surprise_pct": 6.39,
+          "actual_op_income": 76466212000,
+          "consensus_op_income": 71201872697,
+          "op_surprise_pct": 7.39
+        }
+      ]
+    },
+    "022100.KS": {
+      "sector": "Technology",
+      "is_financial": false,
+      "quarters": [
+        {
+          "quarter": "2025Q1",
+          "actual_revenue": 296780188930,
+          "consensus_revenue": 284708241394,
+          "revenue_surprise_pct": 4.24,
+          "actual_op_income": 24399690090,
+          "consensus_op_income": 22653247195,
+          "op_surprise_pct": 7.71
+        },
+        {
+          "quarter": "2025Q2",
+          "actual_revenue": 272857095030,
+          "consensus_revenue": 272238127824,
+          "revenue_surprise_pct": 0.23,
+          "actual_op_income": 17089070770,
+          "consensus_op_income": 16989873447,
+          "op_surprise_pct": 0.58
+        },
+        {
+          "quarter": "2025Q3",
+          "actual_revenue": 244723536290,
+          "consensus_revenue": 235288943078,
+          "revenue_surprise_pct": 4.01,
+          "actual_op_income": 21659459950,
+          "consensus_op_income": 20190202394,
+          "op_surprise_pct": 7.28
+        },
+        {
+          "quarter": "2025Q4",
+          "actual_revenue": 260814542790,
+          "consensus_revenue": 243631847115,
+          "revenue_surprise_pct": 7.05,
+          "actual_op_income": -1063621890,
+          "consensus_op_income": -1026424191,
+          "op_surprise_pct": -3.62
+        }
+      ]
+    }
+  }
+}

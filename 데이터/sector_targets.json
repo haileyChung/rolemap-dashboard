@@ -1,0 +1,100 @@
+{
+  "_note": "Dummy ETF sector target weights. Rebalancing signal triggered when |current_pct - target_pct| > rebalance_threshold_pct. Generated 2026-05-06.",
+  "rebalance_threshold_pct": 5.0,
+  "etf_targets": {
+    "423920.KS": {
+      "name": "TIGER 미국필라델피아반도체나스닥",
+      "sectors": {
+        "반도체(Fabless/설계)": {
+          "target_pct": 45.0
+        },
+        "반도체(장비/소재)": {
+          "target_pct": 30.0
+        },
+        "반도체(파운드리)": {
+          "target_pct": 20.0
+        },
+        "기타": {
+          "target_pct": 5.0
+        }
+      }
+    },
+    "412570.KS": {
+      "name": "TIGER 2차전지테마",
+      "sectors": {
+        "배터리 셀": {
+          "target_pct": 45.0
+        },
+        "배터리 소재": {
+          "target_pct": 30.0
+        },
+        "배터리 부품": {
+          "target_pct": 15.0
+        },
+        "기타/복합": {
+          "target_pct": 10.0
+        }
+      }
+    },
+    "123320.KS": {
+      "name": "TIGER 코스피200",
+      "sectors": {
+        "IT/반도체": {
+          "target_pct": 30.0
+        },
+        "금융": {
+          "target_pct": 20.0
+        },
+        "산업재": {
+          "target_pct": 15.0
+        },
+        "소재/에너지": {
+          "target_pct": 10.0
+        },
+        "헬스케어": {
+          "target_pct": 10.0
+        },
+        "소비재": {
+          "target_pct": 8.0
+        },
+        "기타": {
+          "target_pct": 7.0
+        }
+      }
+    },
+    "243880.KS": {
+      "name": "TIGER 반도체",
+      "sectors": {
+        "메모리 반도체": {
+          "target_pct": 40.0
+        },
+        "시스템 반도체": {
+          "target_pct": 25.0
+        },
+        "IT 하드웨어": {
+          "target_pct": 25.0
+        },
+        "기타": {
+          "target_pct": 10.0
+        }
+      }
+    },
+    "7V0007": {
+      "name": "전력기기 ETF",
+      "sectors": {
+        "변압기/전력기기": {
+          "target_pct": 55.0
+        },
+        "전선/케이블": {
+          "target_pct": 25.0
+        },
+        "전력시스템": {
+          "target_pct": 15.0
+        },
+        "기타": {
+          "target_pct": 5.0
+        }
+      }
+    }
+  }
+}
